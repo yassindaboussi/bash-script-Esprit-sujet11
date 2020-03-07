@@ -1,11 +1,11 @@
 # bash-script-Esprit
 (Sujet 11 Esprit) Bash Script 
 
-### Detail
-1.Menu Normal
-1.Menu Graphique avec ( yad )
-### install yad for graphique
-1.sudo apt-get install yad
+## Detail
+1. Menu Normal
+1. Menu Graphique avec ( yad )
+## install yad for graphique
+1. sudo apt-get install yad
 
 # Preview
 ### Screenshot
