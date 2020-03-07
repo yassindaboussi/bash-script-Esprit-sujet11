@@ -4,7 +4,7 @@
 ## Detail
 1. Menu Normal
 1. Menu Graphique avec ( yad )
-## install yad for graphique
+## install yad 
 1. sudo apt-get install yad
 
 # Preview
