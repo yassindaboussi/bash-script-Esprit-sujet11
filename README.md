@@ -5,7 +5,7 @@
 ### Screenshot
 ![template preview](https://i.imgur.com/uVr06kF.png)
 
-## Detail
+## Det
 1. Menu Normal
 1. Menu Graphique avec ( yad )
 ## install yad 
